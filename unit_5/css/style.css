@@ -1,0 +1,31 @@
+body {
+	background: url("https://cdn.shopify.com/s/files/1/0558/2845/files/7A1A1172_1800x.jpg?v=1528931329");
+	background-size: cover;
+	font-family: 'Montserrat', sans-serif;;
+}
+
+#slogan {font-style: italic;}
+
+header {
+    background-color: #FFED74;
+    border: 1px black solid;
+    padding: 20px;
+}
+nav {
+	background-color: #E8C66A;
+}
+article {
+	background-color: #E89C6C;
+}
+
+aside {
+	background-color:#FFC675;
+}
+
+footer {
+	background-color: #FF957E;
+}
+
+div {
+	background-color: #FFE2B8;
+}
